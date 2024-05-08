@@ -1,0 +1,10 @@
+NXP Software Content Register
+
+Package:                   an-lpc802_io_expander
+
+Version:                   1.0.0
+Outgoing License:          BSD-3-Clause
+License File:              LICENSE
+Description and comments:  This demo helps the user to understand how to use LPC802 as a smart device with ADC interface, multi-channel mixed signal, and function expandable device.
+Release Location:          https://github.com/nxp-appcodehub/an-lpc802_io_expander
+Origin:                    NXP (BSD-3-Clause)
